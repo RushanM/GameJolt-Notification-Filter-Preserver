@@ -1,13 +1,17 @@
 # Game Jolt Notification Filter Preserver
 
-A [Tampermonkey](https://github.com/Tampermonkey/tampermonkey) script that saves your notification filters on [Game Jolt](https://gamejolt.com/). How it works: you go to the notifications page by clicking "View all", choose your filters, and leave the page. The next time you visit the notifications page through the "View all" button, the script will automatically redirect you to the page with your previously set filters. It's THAT simple!
+A [Tampermonkey](https://github.com/Tampermonkey/tampermonkey) script that saves your notification filters on [Game Jolt](https://gamejolt.com/).
 
-Current version: **1.0.**
+**How it works**:
+
+Уou go to the notifications page by clicking "View all", choose your filters, and leave the page. The next time you visit the notifications page through the "View all" button, the script will automatically redirect you to the page with your previously set filters. It's that simple!
+
+Current version: **1.0**.
 
 ## Installation
 
 1. Install Tampermonkey
-2. Open the script link from [GitHub](https://github.com/RushanM/GameJolt-Notification-Filter-Preserver/raw/main/Game%20Jolt%20Notification%20Filter%20Preserver.user.js) or [GreasyFork](https://greasyfork.org/ru/scripts/496844-game-jolt-russian-translation)
+2. Open the script link from [GitHub](https://github.com/RushanM/GameJolt-Notification-Filter-Preserver/raw/main/Game%20Jolt%20Notification%20Filter%20Preserver.user.js) or [GreasyFork](https://greasyfork.org/ru/scripts/496844-game-jolt-russian-translation) and install
 3. Refresh the Game Jolt page if it was already open
 4. Done!
 
