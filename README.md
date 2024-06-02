@@ -6,7 +6,7 @@ A [Tampermonkey](https://github.com/Tampermonkey/tampermonkey) script that saves
 
 You go to the notifications page by clicking "View all", choose your filters, and leave the page. The next time you visit the notifications page through the "View all" button, the script will automatically redirect you to the page with your previously set filters. It's that simple!
 
-Current version: **1.0**.
+Current version: **0.1 Indev**.
 
 ## Installation
 

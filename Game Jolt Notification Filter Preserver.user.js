@@ -2,7 +2,7 @@
 // @name           Game Jolt Notification Filter Preserver
 // @name:ru        Сохранение фильтров уведомлений Game Jolt
 // @namespace      http://tampermonkey.net/
-// @version        1.0
+// @version        0.1
 // @icon           https://s.gjcdn.net/img/favicon.png
 // @description    Preserves and restores selected filters on the notifications page of Game Jolt.
 // @description:ru Восстанавливает выбранные фильтры на странице уведомлений Game Jolt.
