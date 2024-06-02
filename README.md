@@ -11,7 +11,7 @@ Current version: **0.1 Indev**.
 ## Installation
 
 1. Install Tampermonkey
-2. Open the script link from [GitHub](https://github.com/RushanM/GameJolt-Notification-Filter-Preserver/raw/main/Game%20Jolt%20Notification%20Filter%20Preserver.user.js) or [GreasyFork](https://greasyfork.org/ru/scripts/496844-game-jolt-russian-translation) and install
+2. Open the script link from [GitHub](https://github.com/RushanM/GameJolt-Notification-Filter-Preserver/raw/main/Game%20Jolt%20Notification%20Filter%20Preserver.user.js) or [GreasyFork](https://greasyfork.org/ru/scripts/496893-game-jolt-notification-filter-preserver) and install
 3. Refresh the Game Jolt page if it was already open
 4. Done!
 
